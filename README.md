@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Aleksa
 
-<!--
-**amojovic/amojovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Computer Science student focused on **machine learning** and **artificial intelligence**.  
 
-Here are some ideas to get you started:
+In addition to AI, I work on game development using **Godot** and **Unity**, and I have extensive experience with **robotics**, particularly with **Arduino**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏫 College contributions
+
+I have contributed to several projects under my university's GitHub account. You can find that work here:
+
+➡️ [University GitHub account](https://github.com/AleksaMojovic)
+
+---
+
+## 🚀 Personal projects
+
+Currently working on personal projects in AI, game development, and robotics.
+
+---

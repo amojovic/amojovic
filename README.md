@@ -8,9 +8,7 @@ In addition to AI, I work on game development using **Godot** and **Unity**, and
 
 ## 🏫 College contributions
 
-I have contributed to several projects under my university's GitHub account. You can find that work here:
-
-➡️ [University GitHub account](https://github.com/AleksaMojovic)
+I have contributed to several projects under my university's GitHub account. 
 
 ---
 
